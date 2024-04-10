@@ -1,0 +1,3689 @@
+[{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:31:34.799005-05:00", 
+      "exposure_id": "91a7368d-c880-5de8-a0cc-5172b80b4d90", 
+      "submitter_id": "TCGA-4G-AAZO_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "0775583e-c0a0-4f18-9ca2-8f89cedce3d6", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-4G-AAZO", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:31:34.799005-05:00", 
+          "submitter_id": "TCGA-4G-AAZO_treatment_1", 
+          "treatment_id": "6f591e33-93db-5dea-8474-413a245b6a2e", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T10:27:22.608144-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:31:34.799005-05:00", 
+          "submitter_id": "TCGA-4G-AAZO_treatment", 
+          "treatment_id": "cbc27a01-1586-57ce-9b35-2e3208abff31", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1177.0, 
+      "age_at_diagnosis": 25989, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2a", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-4G-AAZO_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "2bcadf8d-e058-5422-a2e8-d084875af845", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "5d6ef589-fa83-5b26-981e-7d11a4577bad", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:31:34.799005-05:00", 
+    "age_at_index": 71, 
+    "submitter_id": "TCGA-4G-AAZO_demographic", 
+    "days_to_birth": -25989, 
+    "state": "released", 
+    "year_of_birth": 1941
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:31:47.974621-05:00", 
+      "exposure_id": "d7943e6f-4cf0-5823-8277-0a13fa533612", 
+      "submitter_id": "TCGA-W7-A93O_exposure", 
+      "state": "released", 
+      "created_datetime": "2019-04-28T10:27:32.257623-05:00"
+    }
+  ], 
+  "case_id": "15850852-5979-419d-ae38-76ffd0e9d7e8", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W7-A93O", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IIB", 
+      "days_to_diagnosis": 0, 
+      "created_datetime": "2019-04-28T10:27:32.257623-05:00", 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:31:47.974621-05:00", 
+          "submitter_id": "TCGA-W7-A93O_treatment", 
+          "treatment_id": "3e99cdce-a4e0-5fb6-b6ca-04ab2cb52777", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:32.257623-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:31:47.974621-05:00", 
+          "submitter_id": "TCGA-W7-A93O_treatment_1", 
+          "treatment_id": "a7d0581b-e65b-5f57-9424-dff2a542deee", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T10:27:32.257623-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Extrahepatic bile duct", 
+      "days_to_last_follow_up": 180.0, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N1", 
+      "ajcc_pathologic_m": "MX", 
+      "submitter_id": "TCGA-W7-A93O_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "fb11a268-07f8-5b6a-90fa-e3077fff2dc9", 
+      "icd_10_code": "C25.0", 
+      "site_of_resection_or_biopsy": "Extrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "d219e78e-86a1-5ec6-bf34-7521e75552b8", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:31:47.974621-05:00", 
+    "submitter_id": "TCGA-W7-A93O_demographic", 
+    "state": "released", 
+    "created_datetime": "2019-04-28T10:27:32.257623-05:00"
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:31:37.891950-05:00", 
+      "exposure_id": "fbf24c1a-1cd5-5a58-9c9d-62afc5435fb2", 
+      "submitter_id": "TCGA-W5-AA2O_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "180a2b9c-9cac-4d96-86e8-cd6b3b9386b5", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2O", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:31:37.891950-05:00", 
+          "submitter_id": "TCGA-W5-AA2O_treatment_1", 
+          "treatment_id": "687b783a-270c-54c4-a9b1-229c00db6495", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:24.987573-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:31:37.891950-05:00", 
+          "submitter_id": "TCGA-W5-AA2O_treatment", 
+          "treatment_id": "bd9e3ae1-3750-5a97-90dd-d5ea9840ec19", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 21118, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2006, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "6th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2O_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "4c3932d9-6d7c-5bb3-8154-3b1ac6af61fa", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 57, 
+    "submitter_id": "TCGA-W5-AA2O_demographic", 
+    "days_to_birth": -21118, 
+    "year_of_birth": 1949, 
+    "demographic_id": "ca7546e0-cc75-5f29-a552-c7cd36233a31", 
+    "updated_datetime": "2019-07-31T17:31:37.891950-05:00", 
+    "days_to_death": 640, 
+    "state": "released", 
+    "year_of_death": 2007
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:31:44.563227-05:00", 
+      "exposure_id": "a817e664-73a0-58e4-a803-bfde02a88a80", 
+      "submitter_id": "TCGA-4G-AAZF_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "1932bc1e-2a15-4f74-978e-d49c366604a4", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-4G-AAZF", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "Not Reported", 
+      "ajcc_pathologic_stage": "Stage III", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:31:44.563227-05:00", 
+          "submitter_id": "TCGA-4G-AAZF_treatment_1", 
+          "treatment_id": "17e10c09-0e4c-52ce-a751-bb1dd524c4b1", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:29.805915-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:31:44.563227-05:00", 
+          "submitter_id": "TCGA-4G-AAZF_treatment", 
+          "treatment_id": "b9e36e2f-2e9f-5700-a40b-1636abeae23e", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1777.0, 
+      "age_at_diagnosis": 27109, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "yes", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "MX", 
+      "submitter_id": "TCGA-4G-AAZF_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "4a55a1ed-7957-5fe1-8ce5-8227901d7a4c", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "e3a160c9-6818-5d29-bcd5-d05aa5020dae", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:31:44.563227-05:00", 
+    "age_at_index": 74, 
+    "submitter_id": "TCGA-4G-AAZF_demographic", 
+    "days_to_birth": -27109, 
+    "state": "released", 
+    "year_of_birth": 1936
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:31:51.101746-05:00", 
+      "exposure_id": "513275ac-75e8-5891-bb6f-124cc15f9e25", 
+      "submitter_id": "TCGA-ZH-A8Y3_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "1947a152-6339-4f66-b9a4-0229580f0287", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZH-A8Y3", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:31:51.101746-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y3_treatment", 
+          "treatment_id": "371ecde0-393d-5a2a-a522-80255964813c", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:31:51.101746-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y3_treatment_1", 
+          "treatment_id": "de1b0a49-cd38-5e04-86cb-710614588038", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T10:27:34.758599-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 22436, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2a", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-ZH-A8Y3_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "3556cad4-74f7-5d42-8900-732921a5234a", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "black or african american", 
+    "vital_status": "Dead", 
+    "age_at_index": 61, 
+    "submitter_id": "TCGA-ZH-A8Y3_demographic", 
+    "days_to_birth": -22436, 
+    "year_of_birth": 1949, 
+    "demographic_id": "53268d1c-ab8b-5ccd-a865-473041c9e7b5", 
+    "updated_datetime": "2019-07-31T17:31:51.101746-05:00", 
+    "days_to_death": 561, 
+    "state": "released", 
+    "year_of_death": 2011
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:31:41.328314-05:00", 
+      "exposure_id": "bae16a70-21b4-520c-82bf-b9bf37dbebfb", 
+      "submitter_id": "TCGA-W5-AA2W_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "1d136284-bdf5-498e-9506-4893801a337c", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2W", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IVA", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:31:41.328314-05:00", 
+          "submitter_id": "TCGA-W5-AA2W_treatment", 
+          "treatment_id": "6a8796d3-20a8-5d63-a106-aff6090dd666", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:31:41.328314-05:00", 
+          "submitter_id": "TCGA-W5-AA2W_treatment_1", 
+          "treatment_id": "e70b1c30-0b69-5915-9efb-a11a4d9a0a45", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T10:27:27.357843-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 11438, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2a", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N1", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2W_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "6cadcd0e-6dcf-556f-9248-6b5cbda9242f", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 31, 
+    "submitter_id": "TCGA-W5-AA2W_demographic", 
+    "days_to_birth": -11438, 
+    "year_of_birth": 1979, 
+    "demographic_id": "063ee8ad-4ce0-5942-aac4-b84f07dcf2eb", 
+    "updated_datetime": "2019-07-31T17:31:41.328314-05:00", 
+    "days_to_death": 924, 
+    "state": "released", 
+    "year_of_death": 2012
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:13:52.516799-05:00", 
+      "exposure_id": "13ea5144-504f-509c-9261-bb836b5a1909", 
+      "submitter_id": "TCGA-W5-AA2R_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "20bf79af-3b0f-477d-b619-5597d42f5d5e", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2R", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:13:52.516799-05:00", 
+          "submitter_id": "TCGA-W5-AA2R_treatment", 
+          "treatment_id": "a60fda6e-0956-5838-a5d8-429ca3cef035", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:13:52.516799-05:00", 
+          "submitter_id": "TCGA-W5-AA2R_treatment_1", 
+          "treatment_id": "aa309569-dad8-5ccd-bcb8-b2e7d4d8a801", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T08:35:00.469217-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1542.0, 
+      "age_at_diagnosis": 28367, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2006, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "6th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2R_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "c8c0536f-72e9-582b-8239-cdc3341ebe39", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "f1b3e939-c2b1-5652-bc5b-db298895f2be", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:13:52.516799-05:00", 
+    "age_at_index": 77, 
+    "submitter_id": "TCGA-W5-AA2R_demographic", 
+    "days_to_birth": -28367, 
+    "state": "released", 
+    "year_of_birth": 1929
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:41:30.180099-05:00", 
+      "exposure_id": "a1d70ca0-7bd2-585a-82cb-c440511c510c", 
+      "submitter_id": "TCGA-W5-AA2Z_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "20ec1cd9-7bdb-4eb9-9d20-65795580f1f5", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2Z", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:41:30.180099-05:00", 
+          "submitter_id": "TCGA-W5-AA2Z_treatment", 
+          "treatment_id": "b43cf7ea-44dd-5c68-a9b3-c073ee279a23", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:41:30.180099-05:00", 
+          "submitter_id": "TCGA-W5-AA2Z_treatment_1", 
+          "treatment_id": "f0fd2eaf-3255-5416-944f-13b981c3b24f", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T08:58:46.055115-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1614.0, 
+      "age_at_diagnosis": 10659, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2Z_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "2767ec5a-d907-5e0b-85bf-13e621501e38", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "394088da-f956-51ec-aeb8-638339775252", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:41:30.180099-05:00", 
+    "age_at_index": 29, 
+    "submitter_id": "TCGA-W5-AA2Z_demographic", 
+    "days_to_birth": -10659, 
+    "state": "released", 
+    "year_of_birth": 1981
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:46:44.300664-05:00", 
+      "exposure_id": "f50b3141-d776-5a25-8d5b-e59867f2e28d", 
+      "submitter_id": "TCGA-W5-AA2G_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "22bf93b3-c8dc-4669-862f-3e4ae478849b", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2G", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:46:44.300664-05:00", 
+          "submitter_id": "TCGA-W5-AA2G_treatment_1", 
+          "treatment_id": "9e53572d-b5be-5528-95da-c5552fb14dde", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T09:03:09.153448-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:46:44.300664-05:00", 
+          "submitter_id": "TCGA-W5-AA2G_treatment", 
+          "treatment_id": "bac8e9e4-b3c9-5fd5-9085-45d711a21402", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1976.0, 
+      "age_at_diagnosis": 22933, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2008, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2G_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "ec7b76e7-2b56-59bf-b5d0-a7f01fc9c955", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "a640dd4a-3934-588a-9c29-80d0e1e1e4fb", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:46:44.300664-05:00", 
+    "age_at_index": 62, 
+    "submitter_id": "TCGA-W5-AA2G_demographic", 
+    "days_to_birth": -22933, 
+    "state": "released", 
+    "year_of_birth": 1946
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:38:29.487097-05:00", 
+      "exposure_id": "f97fbe9c-eba1-55e2-b444-fc4258e0885e", 
+      "submitter_id": "TCGA-W5-AA31_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "2d6e20b2-82c7-4c12-92d0-93282b0a9031", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA31", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "Not Reported", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:38:29.487097-05:00", 
+          "submitter_id": "TCGA-W5-AA31_treatment", 
+          "treatment_id": "5dd979a9-f240-5875-94c6-87971863b9a5", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:38:29.487097-05:00", 
+          "submitter_id": "TCGA-W5-AA31_treatment_1", 
+          "treatment_id": "daf3ed7d-27b9-5da4-a860-b0b484c9d5e7", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T08:56:10.293746-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 10.0, 
+      "age_at_diagnosis": 26139, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "yes", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA31_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "31529032-9657-5095-bc21-31b5c42020df", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "60a87b01-2cf2-5cf6-a7ef-60a01a2c39cb", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:38:29.487097-05:00", 
+    "age_at_index": 71, 
+    "submitter_id": "TCGA-W5-AA31_demographic", 
+    "days_to_birth": -26139, 
+    "state": "released", 
+    "year_of_birth": 1939
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:49:46.409539-05:00", 
+      "exposure_id": "9dd1863e-1bab-5f11-abc2-fbb046f207d9", 
+      "submitter_id": "TCGA-W5-AA39_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "32e9558c-946b-4288-91e1-504e47c308ac", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA39", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:49:46.409539-05:00", 
+          "submitter_id": "TCGA-W5-AA39_treatment_1", 
+          "treatment_id": "a330dff2-7e71-509f-a5d7-00862d232d39", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T09:05:37.625202-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:49:46.409539-05:00", 
+          "submitter_id": "TCGA-W5-AA39_treatment", 
+          "treatment_id": "c63c29b9-70ad-552f-82af-b6467f17f3b0", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 29594, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA39_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "0223d7fb-4b16-53e3-aa82-37a6618dba34", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 81, 
+    "submitter_id": "TCGA-W5-AA39_demographic", 
+    "days_to_birth": -29594, 
+    "year_of_birth": 1929, 
+    "demographic_id": "15f9936d-b9f8-5201-a6ad-c54100739b1a", 
+    "updated_datetime": "2019-07-31T15:49:46.409539-05:00", 
+    "days_to_death": 170, 
+    "state": "released", 
+    "year_of_death": 2010
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:52:02.980564-05:00", 
+      "exposure_id": "89bdbca7-9b9b-5629-ba37-cdacace193d9", 
+      "submitter_id": "TCGA-ZH-A8Y7_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "37d60df9-2fa5-433b-9e54-dccb5ed5a638", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZH-A8Y7", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "Not Reported", 
+      "ajcc_pathologic_stage": "Stage IVB", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:52:02.980564-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y7_treatment", 
+          "treatment_id": "a4fb194e-c56e-5a94-9264-7c1a5c08e625", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:52:02.980564-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y7_treatment_1", 
+          "treatment_id": "b7279327-a843-5b25-8047-312f6d95baa4", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T09:07:29.915849-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 755.0, 
+      "age_at_diagnosis": 21880, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "yes", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M1", 
+      "submitter_id": "TCGA-ZH-A8Y7_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "e4f55963-ad33-51a7-ac80-a4825df96d1f", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "743f2498-c241-5750-8be1-daa5bb33191f", 
+    "ethnicity": "not reported", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:52:02.980564-05:00", 
+    "age_at_index": 59, 
+    "submitter_id": "TCGA-ZH-A8Y7_demographic", 
+    "days_to_birth": -21880, 
+    "state": "released", 
+    "year_of_birth": 1954
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:31:54.168007-05:00", 
+      "exposure_id": "b44edd2e-fa6d-5e18-8948-7dc0b6c09fe9", 
+      "submitter_id": "TCGA-3X-AAVB_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "3824cd6d-c85c-4b21-819a-932d1afef976", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-3X-AAVB", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IVB", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:31:54.168007-05:00", 
+          "submitter_id": "TCGA-3X-AAVB_treatment_1", 
+          "treatment_id": "583b3df1-82eb-524f-bdcb-b531438f06d1", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "not reported", 
+          "created_datetime": "2019-04-28T10:27:37.264064-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:31:54.168007-05:00", 
+          "submitter_id": "TCGA-3X-AAVB_treatment", 
+          "treatment_id": "964c483a-5b83-5a14-95f5-56d5c270c2fd", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "not reported"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 402.0, 
+      "age_at_diagnosis": 25819, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N1", 
+      "ajcc_pathologic_m": "M1", 
+      "submitter_id": "TCGA-3X-AAVB_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "807a2c37-df33-518c-abab-e33bf35f7457", 
+      "icd_10_code": "C24.0", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "cc86552f-df54-5b25-bbe1-aa1acfb20d71", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:31:54.168007-05:00", 
+    "age_at_index": 70, 
+    "submitter_id": "TCGA-3X-AAVB_demographic", 
+    "days_to_birth": -25819, 
+    "state": "released", 
+    "year_of_birth": 1942
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:31:57.181914-05:00", 
+      "exposure_id": "3f1fb58b-f8bb-5aac-8f51-e8e72ded3696", 
+      "submitter_id": "TCGA-W5-AA2I_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "3c8ca064-a4a7-416f-a069-4324d4a72038", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2I", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:31:57.181914-05:00", 
+          "submitter_id": "TCGA-W5-AA2I_treatment", 
+          "treatment_id": "10202bfb-52b1-5598-aefb-d6271b3caf3e", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:31:57.181914-05:00", 
+          "submitter_id": "TCGA-W5-AA2I_treatment_1", 
+          "treatment_id": "119b1c52-dbc9-52b1-a34e-38360d6cbf9d", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:39.665317-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 24388, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2005, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "6th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2I_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "b196499e-cc2c-5e46-a50a-bd2ec45ecb20", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 66, 
+    "submitter_id": "TCGA-W5-AA2I_demographic", 
+    "days_to_birth": -24388, 
+    "year_of_birth": 1939, 
+    "demographic_id": "2c7d4763-c4ac-514b-b61c-e8d1c7c2defa", 
+    "updated_datetime": "2019-07-31T17:31:57.181914-05:00", 
+    "days_to_death": 1939, 
+    "state": "released", 
+    "year_of_death": 2010
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:41:02.865441-05:00", 
+      "exposure_id": "222b5180-791a-514c-a801-31dc2864b0dd", 
+      "submitter_id": "TCGA-W5-AA2J_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "3f7e0cbf-e48c-410a-9138-be9b373fef73", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2J", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IVA", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:41:02.865441-05:00", 
+          "submitter_id": "TCGA-W5-AA2J_treatment_1", 
+          "treatment_id": "8df3eb71-3bae-5866-b04a-02e7083a5263", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:35:14.473954-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:41:02.865441-05:00", 
+          "submitter_id": "TCGA-W5-AA2J_treatment", 
+          "treatment_id": "ebf16302-06ad-5b1e-9186-6ca0bb07c94c", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 916.0, 
+      "age_at_diagnosis": 24140, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T4", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2J_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "58f144d5-5ab9-543b-8435-cdd7983d88cb", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "4fb45376-a95b-5557-bcf2-a4cb080aa82a", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:41:02.865441-05:00", 
+    "age_at_index": 66, 
+    "submitter_id": "TCGA-W5-AA2J_demographic", 
+    "days_to_birth": -24140, 
+    "state": "released", 
+    "year_of_birth": 1946
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:17:20.055018-05:00", 
+      "exposure_id": "563f6645-a578-5ad0-b178-f30d39b97bf2", 
+      "submitter_id": "TCGA-3X-AAV9_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "41b97b11-acaa-4fbc-b3b0-0abc1bcac13b", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-3X-AAV9", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "Not Reported", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:17:20.055018-05:00", 
+          "submitter_id": "TCGA-3X-AAV9_treatment", 
+          "treatment_id": "22e03b71-ad02-5d49-99ca-b99b825f1167", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:17:20.055018-05:00", 
+          "submitter_id": "TCGA-3X-AAV9_treatment_1", 
+          "treatment_id": "4cb968fb-53d8-5bac-83e4-c2c588b114ed", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T08:37:54.425723-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 26349, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "yes", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-3X-AAV9_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "0489d320-0876-5cc8-98e1-c8fec034508a", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "asian", 
+    "vital_status": "Dead", 
+    "age_at_index": 72, 
+    "submitter_id": "TCGA-3X-AAV9_demographic", 
+    "days_to_birth": -26349, 
+    "year_of_birth": 1938, 
+    "demographic_id": "48b46b2a-9442-5bba-85ff-18659de21a83", 
+    "updated_datetime": "2019-07-31T15:17:20.055018-05:00", 
+    "days_to_death": 339, 
+    "state": "released", 
+    "year_of_death": 2010
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:50:36.561216-05:00", 
+      "exposure_id": "0f694b4b-48dc-5770-9025-2c0df12977f4", 
+      "submitter_id": "TCGA-WD-A7RX_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "4290b3b3-94f6-43e4-8309-430dd973ae2d", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-WD-A7RX", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:50:36.561216-05:00", 
+          "submitter_id": "TCGA-WD-A7RX_treatment_1", 
+          "treatment_id": "53a3d806-2a2e-5ddc-85c4-dad2d42368a7", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T09:06:17.777930-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:50:36.561216-05:00", 
+          "submitter_id": "TCGA-WD-A7RX_treatment", 
+          "treatment_id": "e1de4ab0-6aa0-5d79-8f4f-f8d4b52e3de9", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Liver", 
+      "age_at_diagnosis": 26006, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2b", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "NX", 
+      "ajcc_pathologic_m": "MX", 
+      "submitter_id": "TCGA-WD-A7RX_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "2af48bf6-0035-52f4-b7ef-c5b881ae207d", 
+      "icd_10_code": "C22.0", 
+      "site_of_resection_or_biopsy": "Liver", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 71, 
+    "submitter_id": "TCGA-WD-A7RX_demographic", 
+    "days_to_birth": -26006, 
+    "year_of_birth": 1942, 
+    "demographic_id": "e1926bfb-45e1-572a-8a87-bf09004ea9ed", 
+    "updated_datetime": "2019-07-31T15:50:36.561216-05:00", 
+    "days_to_death": 21, 
+    "state": "released", 
+    "year_of_death": 2013
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:45:09.655137-05:00", 
+      "exposure_id": "fe239501-f7fa-501c-aa21-aeb134b9a6d4", 
+      "submitter_id": "TCGA-ZH-A8Y2_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "47a9ef9b-04f0-4e8d-bfdb-0846ba30d08b", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZH-A8Y2", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:45:09.655137-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y2_treatment_1", 
+          "treatment_id": "4f56462e-9695-51e2-b263-c453de6e1ee4", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T09:01:54.316836-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:45:09.655137-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y2_treatment", 
+          "treatment_id": "f027d6fe-c9a7-5e74-b1f4-fc1b972ebb3e", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 21743, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2011, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "NX", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-ZH-A8Y2_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "bad5bd9d-d744-57e0-89ef-08e559cf4be3", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "black or african american", 
+    "vital_status": "Dead", 
+    "age_at_index": 59, 
+    "submitter_id": "TCGA-ZH-A8Y2_demographic", 
+    "days_to_birth": -21743, 
+    "year_of_birth": 1952, 
+    "demographic_id": "098a0045-4df9-5fba-837a-4e817f8631f7", 
+    "updated_datetime": "2019-07-31T15:45:09.655137-05:00", 
+    "days_to_death": 701, 
+    "state": "released", 
+    "year_of_death": 2012
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:41:05.819773-05:00", 
+      "exposure_id": "ad83179a-0e6e-5fcb-b89c-af9e3809c442", 
+      "submitter_id": "TCGA-W5-AA38_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "48d17b17-348c-405a-ae92-f190372a3aac", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA38", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:41:05.819773-05:00", 
+          "submitter_id": "TCGA-W5-AA38_treatment", 
+          "treatment_id": "316df015-09b1-55e8-8c6d-8df8bda6eac3", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:41:05.819773-05:00", 
+          "submitter_id": "TCGA-W5-AA38_treatment_1", 
+          "treatment_id": "d899ab1b-75b2-529b-a62e-caa76d52110f", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T10:35:16.862074-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1471.0, 
+      "age_at_diagnosis": 20285, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2011, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA38_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "828666ca-185c-53e2-9b02-5bfd47d9c5ab", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "4e7ceeca-d467-51ce-b011-9c96ca72c300", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:41:05.819773-05:00", 
+    "age_at_index": 55, 
+    "submitter_id": "TCGA-W5-AA38_demographic", 
+    "days_to_birth": -20285, 
+    "state": "released", 
+    "year_of_birth": 1956
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:13:28.428644-05:00", 
+      "exposure_id": "778be807-4a92-5e5d-b159-4ee39cf748dd", 
+      "submitter_id": "TCGA-ZH-A8Y6_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "5166d82f-7b22-4101-bea9-6056e5a74c48", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZH-A8Y6", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:13:28.428644-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y6_treatment", 
+          "treatment_id": "1ca3f523-c328-585d-8e7a-8b18b8243807", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:13:28.428644-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y6_treatment_1", 
+          "treatment_id": "ee6cf626-7c4b-501a-816f-3091efb3d356", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T08:34:38.790933-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 519.0, 
+      "age_at_diagnosis": 14976, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-ZH-A8Y6_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "6c85eb4d-2d0d-5095-9e9b-43e5a6eaf133", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "5759a210-cb0a-58e8-9f9b-eb02ebd888d2", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "black or african american", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:13:28.428644-05:00", 
+    "age_at_index": 41, 
+    "submitter_id": "TCGA-ZH-A8Y6_demographic", 
+    "days_to_birth": -14976, 
+    "state": "released", 
+    "year_of_birth": 1972
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:32:06.685039-05:00", 
+      "exposure_id": "9845c2b4-a187-5f83-ac3d-0d7869a55765", 
+      "submitter_id": "TCGA-4G-AAZR_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "57500d4c-4bb3-4f32-ae3a-a0b78f18c526", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-4G-AAZR", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:32:06.685039-05:00", 
+          "submitter_id": "TCGA-4G-AAZR_treatment", 
+          "treatment_id": "13bb5ab6-ed28-54db-a2d4-19f3e5b91a3c", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:32:06.685039-05:00", 
+          "submitter_id": "TCGA-4G-AAZR_treatment_1", 
+          "treatment_id": "32000500-498a-54b7-8018-0be5b91018f9", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:47.177887-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 27151, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2a", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "MX", 
+      "submitter_id": "TCGA-4G-AAZR_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "54d80fd0-0016-5348-ab43-f240f2f1debe", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 74, 
+    "submitter_id": "TCGA-4G-AAZR_demographic", 
+    "days_to_birth": -27151, 
+    "year_of_birth": 1939, 
+    "demographic_id": "eae10539-3a15-5225-a289-71494a92dcd0", 
+    "updated_datetime": "2019-07-31T17:32:06.685039-05:00", 
+    "days_to_death": 28, 
+    "state": "released", 
+    "year_of_death": 2013
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:32:12.820055-05:00", 
+      "exposure_id": "bf0d2fb7-9ac2-5076-8e76-a6a86d33c84a", 
+      "submitter_id": "TCGA-ZH-A8Y8_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "5cf3911a-f3ea-4c0e-851d-5bb57ca7190f", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZH-A8Y8", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "Not Reported", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:32:12.820055-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y8_treatment_1", 
+          "treatment_id": "06dfe6d7-8e30-5ecb-8b69-e8a1b13edda8", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:52.199444-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:32:12.820055-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y8_treatment", 
+          "treatment_id": "f90b5675-478a-57ff-812a-f33dab28f707", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 602.0, 
+      "age_at_diagnosis": 26744, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "yes", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-ZH-A8Y8_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "26bbcb2d-5a8a-59a8-ba86-1f7b7ac57aab", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "399b9b62-a89f-5726-83cb-1ec375518977", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:32:12.820055-05:00", 
+    "age_at_index": 73, 
+    "submitter_id": "TCGA-ZH-A8Y8_demographic", 
+    "days_to_birth": -26744, 
+    "state": "released", 
+    "year_of_birth": 1940
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:32:03.020964-05:00", 
+      "exposure_id": "0a616d72-5be4-5ec3-b224-e863ed7333ba", 
+      "submitter_id": "TCGA-W5-AA33_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "5fb3affa-3661-48e8-a1cc-b533c862e8c5", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA33", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:32:03.020964-05:00", 
+          "submitter_id": "TCGA-W5-AA33_treatment", 
+          "treatment_id": "1b1f2462-1b63-5ca0-8e6f-6533d9cf4974", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:32:03.020964-05:00", 
+          "submitter_id": "TCGA-W5-AA33_treatment_1", 
+          "treatment_id": "983834ab-a8ea-5661-9a97-2afd05627712", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:44.769876-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1449.0, 
+      "age_at_diagnosis": 22090, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2011, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA33_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "158a0dd1-cd6e-563f-89b2-cf024d4d457d", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "05495fc7-b24c-5394-b160-e301c614ade4", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:32:03.020964-05:00", 
+    "age_at_index": 60, 
+    "submitter_id": "TCGA-W5-AA33_demographic", 
+    "days_to_birth": -22090, 
+    "state": "released", 
+    "year_of_birth": 1951
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:32:00.124925-05:00", 
+      "exposure_id": "247910d0-5a86-552d-b096-22b59ba24032", 
+      "submitter_id": "TCGA-W5-AA2X_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "6e534dd3-81ac-4575-ab1e-02c21e10916d", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2X", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IVB", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:32:00.124925-05:00", 
+          "submitter_id": "TCGA-W5-AA2X_treatment", 
+          "treatment_id": "ad615910-4be0-513b-997b-d367ef864fee", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:32:00.124925-05:00", 
+          "submitter_id": "TCGA-W5-AA2X_treatment_1", 
+          "treatment_id": "c9c78afe-23a2-558e-a978-d97744daa21d", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:42.160144-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Extrahepatic bile duct", 
+      "age_at_diagnosis": 24797, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2b", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N1", 
+      "ajcc_pathologic_m": "M1", 
+      "submitter_id": "TCGA-W5-AA2X_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "1f12809f-8b6d-57f7-b45b-91392aa7b2cd", 
+      "icd_10_code": "C24.0", 
+      "site_of_resection_or_biopsy": "Extrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 67, 
+    "submitter_id": "TCGA-W5-AA2X_demographic", 
+    "days_to_birth": -24797, 
+    "year_of_birth": 1943, 
+    "demographic_id": "16df8d49-14b4-57b9-bb70-f288356797ce", 
+    "updated_datetime": "2019-07-31T17:32:00.124925-05:00", 
+    "days_to_death": 271, 
+    "state": "released", 
+    "year_of_death": 2010
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:17:56.464106-05:00", 
+      "exposure_id": "f16cd374-3c44-56b8-a2ce-64f65741ac63", 
+      "submitter_id": "TCGA-W6-AA0S_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "7047dc12-e2ed-40b7-86fd-c5c53a2766fd", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W6-AA0S", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:17:56.464106-05:00", 
+          "submitter_id": "TCGA-W6-AA0S_treatment", 
+          "treatment_id": "e7e3cd1f-a16c-5329-b3fa-c3a160ae876c", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:17:56.464106-05:00", 
+          "submitter_id": "TCGA-W6-AA0S_treatment_1", 
+          "treatment_id": "f237117a-eaf6-5a51-a4fb-f7bde7aa0418", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T08:38:26.632145-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 808.0, 
+      "age_at_diagnosis": 16951, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "MX", 
+      "submitter_id": "TCGA-W6-AA0S_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "d779ffd9-f85f-5714-931e-dc2521470da3", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "645795f3-e0a1-51fc-9aad-7e53f5808cd6", 
+    "ethnicity": "hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:17:56.464106-05:00", 
+    "age_at_index": 46, 
+    "submitter_id": "TCGA-W6-AA0S_demographic", 
+    "days_to_birth": -16951, 
+    "state": "released", 
+    "year_of_birth": 1967
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:32:15.765756-05:00", 
+      "exposure_id": "37f43f2d-7db7-585f-aa28-d7823ccf5697", 
+      "submitter_id": "TCGA-YR-A95A_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "779ce92d-1abd-44fc-9021-eda4d7f08fff", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-YR-A95A", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IV", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:32:15.765756-05:00", 
+          "submitter_id": "TCGA-YR-A95A_treatment_1", 
+          "treatment_id": "0a040e9c-50db-5678-a67d-26bc3651426b", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:54.500404-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:32:15.765756-05:00", 
+          "submitter_id": "TCGA-YR-A95A_treatment", 
+          "treatment_id": "9e7d8848-8050-567f-a435-4dacac02515e", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Extrahepatic bile duct", 
+      "age_at_diagnosis": 19292, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2009, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "6th", 
+      "ajcc_pathologic_t": "T2", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "NX", 
+      "ajcc_pathologic_m": "M1", 
+      "submitter_id": "TCGA-YR-A95A_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "c3d37a7b-54db-58b9-96b0-e975d7ea1bf9", 
+      "icd_10_code": "C24.0", 
+      "site_of_resection_or_biopsy": "Extrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not reported", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 52, 
+    "submitter_id": "TCGA-YR-A95A_demographic", 
+    "days_to_birth": -19292, 
+    "year_of_birth": 1957, 
+    "demographic_id": "2b1ecebd-47c6-55c5-bca3-45b325872343", 
+    "updated_datetime": "2019-07-31T17:32:15.765756-05:00", 
+    "days_to_death": 26, 
+    "state": "released", 
+    "year_of_death": 2009
+  }
+},{
+  "case_id": "7f08f522-08ff-4b30-aa5b-e69cf15041c9", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-5A-A8ZF"
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:32:09.741409-05:00", 
+      "exposure_id": "97a67e4e-bf40-5ace-b1c8-2b219e7d8fde", 
+      "submitter_id": "TCGA-W5-AA2K_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "859ed2d9-668d-440c-86ab-dcd0d9742973", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2K", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:32:09.741409-05:00", 
+          "submitter_id": "TCGA-W5-AA2K_treatment", 
+          "treatment_id": "0c3b5722-3232-5a12-b7a6-f23b140f56bd", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:32:09.741409-05:00", 
+          "submitter_id": "TCGA-W5-AA2K_treatment_1", 
+          "treatment_id": "1c36af21-0e93-53aa-8925-d4056a8d3032", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:49.441106-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 27718, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2008, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2K_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "bf8a994e-a016-533e-b210-75a55659be0c", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 75, 
+    "submitter_id": "TCGA-W5-AA2K_demographic", 
+    "days_to_birth": -27718, 
+    "year_of_birth": 1933, 
+    "demographic_id": "cdcef1e2-07bd-5ff2-8c1a-2c4ff9fea7c8", 
+    "updated_datetime": "2019-07-31T17:32:09.741409-05:00", 
+    "days_to_death": 833, 
+    "state": "released", 
+    "year_of_death": 2010
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:47:28.095130-05:00", 
+      "exposure_id": "9cf6886d-1120-504e-9bf3-c6009942d84a", 
+      "submitter_id": "TCGA-W5-AA2T_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "8944fe2a-e32f-4898-a2c5-fb6751f602a4", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2T", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "Not Reported", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:47:28.095130-05:00", 
+          "submitter_id": "TCGA-W5-AA2T_treatment", 
+          "treatment_id": "dff225a8-41b9-5d9f-8cdb-7011e57d9ad7", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:47:28.095130-05:00", 
+          "submitter_id": "TCGA-W5-AA2T_treatment_1", 
+          "treatment_id": "e28b585f-951c-5bb6-a4c0-d48cc69a3a2c", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T09:03:47.469309-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 23560, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "yes", 
+      "year_of_diagnosis": 2008, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "6th", 
+      "ajcc_pathologic_t": "T2", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2T_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "63e8ac8c-b1cf-5552-bfc5-eb4e6159bd69", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 64, 
+    "submitter_id": "TCGA-W5-AA2T_demographic", 
+    "days_to_birth": -23560, 
+    "year_of_birth": 1944, 
+    "demographic_id": "9a11def8-f3ee-5bcb-a0aa-131941e03894", 
+    "updated_datetime": "2019-07-31T15:47:28.095130-05:00", 
+    "days_to_death": 1220, 
+    "state": "released", 
+    "year_of_death": 2011
+  }
+},{
+  "case_id": "91544f6b-90b6-45df-a501-3097fe0c74be", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZK-AAYZ"
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:14:24.505551-05:00", 
+      "exposure_id": "f1be0a15-af51-5e4d-9cb7-f4f6693dc6ae", 
+      "submitter_id": "TCGA-ZH-A8Y4_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "95b69517-4971-450e-9ed0-43bc8b2c0534", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZH-A8Y4", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "Not Reported", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:14:24.505551-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y4_treatment", 
+          "treatment_id": "8eac65d4-4bc5-53d5-a501-716b0e7874bb", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:14:24.505551-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y4_treatment_1", 
+          "treatment_id": "94eb7e3c-8014-5a34-89ab-a03b3740ed0d", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T08:35:28.724454-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 21503, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "yes", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-ZH-A8Y4_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "ed007a61-9736-549d-b186-f90b4088a9d5", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 58, 
+    "submitter_id": "TCGA-ZH-A8Y4_demographic", 
+    "days_to_birth": -21503, 
+    "year_of_birth": 1952, 
+    "demographic_id": "7e7edd8f-e3d2-5041-b7ea-586e0af84c3e", 
+    "updated_datetime": "2019-07-31T15:14:24.505551-05:00", 
+    "days_to_death": 741, 
+    "state": "released", 
+    "year_of_death": 2012
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:50:39.726027-05:00", 
+      "exposure_id": "808627cb-d7cc-51b3-acda-a877862e106e", 
+      "submitter_id": "TCGA-ZH-A8Y5_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "9d9109f5-5917-4126-8e34-8a7e4632e913", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZH-A8Y5", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IVB", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:50:39.726027-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y5_treatment", 
+          "treatment_id": "00693524-5770-50e9-8f57-c4336686fdef", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:50:39.726027-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y5_treatment_1", 
+          "treatment_id": "5b2ae7c5-6156-56b4-b400-7fdf09540e42", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T09:06:20.101129-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1229.0, 
+      "age_at_diagnosis": 25268, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N1", 
+      "ajcc_pathologic_m": "M1", 
+      "submitter_id": "TCGA-ZH-A8Y5_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "eaa088ed-13bc-5c86-a7f0-9ce4c0c9aa1d", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "c47cf15a-3740-57dd-a3ec-1ab5432a11ee", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:50:39.726027-05:00", 
+    "age_at_index": 69, 
+    "submitter_id": "TCGA-ZH-A8Y5_demographic", 
+    "days_to_birth": -25268, 
+    "state": "released", 
+    "year_of_birth": 1943
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:32:18.743063-05:00", 
+      "exposure_id": "f687dce0-6d4f-58bb-87bb-6ba1ecd9b13b", 
+      "submitter_id": "TCGA-W5-AA2U_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "aaacf22c-2362-4613-b024-88fb7dd1cca1", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2U", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:32:18.743063-05:00", 
+          "submitter_id": "TCGA-W5-AA2U_treatment_1", 
+          "treatment_id": "e17eb819-82d7-5b3e-abc8-50fd298031e9", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:56.936848-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:32:18.743063-05:00", 
+          "submitter_id": "TCGA-W5-AA2U_treatment", 
+          "treatment_id": "f8a98bcf-af7a-5e1e-a12c-87a8f20db8ab", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 28552, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2U_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "3d7ae2c5-855d-58c6-823f-89fad7bfd668", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 78, 
+    "submitter_id": "TCGA-W5-AA2U_demographic", 
+    "days_to_birth": -28552, 
+    "year_of_birth": 1932, 
+    "demographic_id": "426cd7cf-377b-5709-920e-cf88e06c03c2", 
+    "updated_datetime": "2019-07-31T17:32:18.743063-05:00", 
+    "days_to_death": 627, 
+    "state": "released", 
+    "year_of_death": 2011
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:48:13.274631-05:00", 
+      "exposure_id": "1aec3b10-8e5e-5a7d-8c4a-0aefea9690ed", 
+      "submitter_id": "TCGA-W5-AA34_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "adc9a685-5b4a-4c29-881a-da1895c47520", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA34", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:48:13.274631-05:00", 
+          "submitter_id": "TCGA-W5-AA34_treatment", 
+          "treatment_id": "a170e48a-8238-503b-b904-c9a3e42b9d02", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:48:13.274631-05:00", 
+          "submitter_id": "TCGA-W5-AA34_treatment_1", 
+          "treatment_id": "aca43ad4-50da-55d1-a62d-bb34a761b7b9", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T09:04:20.095677-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 168.0, 
+      "age_at_diagnosis": 27535, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA34_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "d5ff64fb-4fe3-5ae2-b674-3e3176c2c30f", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "42a98d55-df9c-511a-9467-5da4039dda49", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "updated_datetime": "2019-07-31T15:48:13.274631-05:00", 
+    "age_at_index": 75, 
+    "submitter_id": "TCGA-W5-AA34_demographic", 
+    "days_to_death": 555, 
+    "days_to_birth": -27535, 
+    "state": "released", 
+    "year_of_birth": 1937
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:22:11.955150-05:00", 
+      "exposure_id": "b69c50b2-a0b9-51b8-a08f-0932ccc40a60", 
+      "submitter_id": "TCGA-W7-A93P_exposure", 
+      "state": "released", 
+      "created_datetime": "2019-04-28T08:42:03.216371-05:00"
+    }
+  ], 
+  "case_id": "ae8d1ed6-2ddf-47b0-8099-bbc9230b499e", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W7-A93P", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IIB", 
+      "days_to_diagnosis": 0, 
+      "created_datetime": "2019-04-28T08:42:03.216371-05:00", 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:22:11.955150-05:00", 
+          "submitter_id": "TCGA-W7-A93P_treatment", 
+          "treatment_id": "89315783-9531-5e2b-affe-658fb6c8f0e9", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T08:42:03.216371-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:22:11.955150-05:00", 
+          "submitter_id": "TCGA-W7-A93P_treatment_1", 
+          "treatment_id": "ff8caa2f-87bc-5ae7-888d-e7418029b317", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T08:42:03.216371-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Extrahepatic bile duct", 
+      "days_to_last_follow_up": 1777.0, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "MX", 
+      "submitter_id": "TCGA-W7-A93P_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "3493de0a-ebdb-5ced-a176-97036f84ff8e", 
+      "icd_10_code": "C24.0", 
+      "site_of_resection_or_biopsy": "Extrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "831b4110-3210-5bf7-b989-d7c46d8871fc", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:22:11.955150-05:00", 
+    "submitter_id": "TCGA-W7-A93P_demographic", 
+    "state": "released", 
+    "created_datetime": "2019-04-28T08:42:03.216371-05:00"
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:23:02.546539-05:00", 
+      "exposure_id": "526e75ea-105e-58b5-893b-fc36bd0a6d42", 
+      "submitter_id": "TCGA-4G-AAZT_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "b10c64c2-7fd2-4210-b975-034affb14b57", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-4G-AAZT", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:23:02.546539-05:00", 
+          "submitter_id": "TCGA-4G-AAZT_treatment", 
+          "treatment_id": "141a32bd-abb3-5cd5-81d8-ecc88e35c098", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:23:02.546539-05:00", 
+          "submitter_id": "TCGA-4G-AAZT_treatment_1", 
+          "treatment_id": "9efebfae-d545-5da9-8ea2-f293808afeea", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T08:42:48.784286-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 420.0, 
+      "age_at_diagnosis": 22777, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-4G-AAZT_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "58ad9803-07f3-5945-8a47-202f8271917b", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "f0bb0161-a0c0-5d1b-b18b-930781523195", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:23:02.546539-05:00", 
+    "age_at_index": 62, 
+    "submitter_id": "TCGA-4G-AAZT_demographic", 
+    "days_to_birth": -22777, 
+    "state": "released", 
+    "year_of_birth": 1951
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:19:40.936442-05:00", 
+      "exposure_id": "eac4db17-9fa8-5e52-a216-d9d077b73404", 
+      "submitter_id": "TCGA-ZH-A8Y1_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "b16e9c3f-c7df-46c2-bee3-ecaebbab025f", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZH-A8Y1", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "Not Reported", 
+      "ajcc_pathologic_stage": "Stage IVA", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:19:40.936442-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y1_treatment_1", 
+          "treatment_id": "70e4ae04-61bb-53f6-8344-3fc3dd9f1d73", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T08:39:57.090849-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:19:40.936442-05:00", 
+          "submitter_id": "TCGA-ZH-A8Y1_treatment", 
+          "treatment_id": "7a3005c8-76a7-5b74-9cef-c0f5d61152e2", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 27279, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "yes", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N1", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-ZH-A8Y1_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "358b4439-4382-5020-8dc6-7a2ac967586e", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 74, 
+    "submitter_id": "TCGA-ZH-A8Y1_demographic", 
+    "days_to_birth": -27279, 
+    "year_of_birth": 1938, 
+    "demographic_id": "bba894f2-2136-5854-b765-9ef780cf4c5c", 
+    "updated_datetime": "2019-07-31T15:19:40.936442-05:00", 
+    "days_to_death": 385, 
+    "state": "released", 
+    "year_of_death": 2013
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:21:40.244152-05:00", 
+      "exposure_id": "b572f09c-b80c-5b58-9765-acd94ef2fae9", 
+      "submitter_id": "TCGA-W5-AA30_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "b4f7f9e4-5fc5-4461-8e0b-0b6c384863c6", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA30", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:21:40.244152-05:00", 
+          "submitter_id": "TCGA-W5-AA30_treatment_1", 
+          "treatment_id": "0275ee9e-da82-5b30-8791-6dc263cc7e2e", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T08:41:36.232368-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:21:40.244152-05:00", 
+          "submitter_id": "TCGA-W5-AA30_treatment", 
+          "treatment_id": "5a58f928-d1aa-5f48-aa50-56b9214d6c69", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1153.0, 
+      "age_at_diagnosis": 30039, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA30_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "dadfc534-efc9-5e40-81dc-cba85b50a3f0", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "9a4d8165-63d6-584c-9014-a408c4a4a069", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:21:40.244152-05:00", 
+    "age_at_index": 82, 
+    "submitter_id": "TCGA-W5-AA30_demographic", 
+    "days_to_birth": -30039, 
+    "state": "released", 
+    "year_of_birth": 1928
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:19:02.266063-05:00", 
+      "exposure_id": "2ddfa96f-d8ef-5f64-aa01-b8c33a466641", 
+      "submitter_id": "TCGA-W5-AA2H_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "bc15cec4-1f82-47fe-ae69-3853194fab7e", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2H", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage III", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:19:02.266063-05:00", 
+          "submitter_id": "TCGA-W5-AA2H_treatment", 
+          "treatment_id": "70aa3e12-ab1a-5c26-92b9-d3f1db4cd9f9", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:19:02.266063-05:00", 
+          "submitter_id": "TCGA-W5-AA2H_treatment_1", 
+          "treatment_id": "b580946c-1857-5b83-9939-3a0cc57bb46a", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T08:39:24.628990-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1077.0, 
+      "age_at_diagnosis": 25775, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2H_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "069bb941-9010-52a2-9a8f-a910a6781a7f", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "81ac8ede-dff1-5e87-901e-276ed07dc6f3", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:19:02.266063-05:00", 
+    "age_at_index": 70, 
+    "submitter_id": "TCGA-W5-AA2H_demographic", 
+    "days_to_birth": -25775, 
+    "state": "released", 
+    "year_of_birth": 1942
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:51:24.901910-05:00", 
+      "exposure_id": "997d0653-6d05-5b70-b728-38a9ea3c9e9e", 
+      "submitter_id": "TCGA-W5-AA2M_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "bec2cf62-44a2-42e5-8e10-440aad69ed77", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2M", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IVB", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:51:24.901910-05:00", 
+          "submitter_id": "TCGA-W5-AA2M_treatment_1", 
+          "treatment_id": "0398947f-cb96-5d7e-aea8-2f61cdaf5de8", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T09:06:57.213119-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:51:24.901910-05:00", 
+          "submitter_id": "TCGA-W5-AA2M_treatment", 
+          "treatment_id": "723a1b48-77e4-5577-9702-fa94a1349627", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Extrahepatic bile duct", 
+      "age_at_diagnosis": 17989, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2006, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "6th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M1", 
+      "submitter_id": "TCGA-W5-AA2M_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "1c9312ef-1f1c-59fa-bd13-43e37432d3b5", 
+      "icd_10_code": "C24.0", 
+      "site_of_resection_or_biopsy": "Extrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not reported", 
+    "gender": "male", 
+    "race": "not reported", 
+    "vital_status": "Dead", 
+    "age_at_index": 49, 
+    "submitter_id": "TCGA-W5-AA2M_demographic", 
+    "days_to_birth": -17989, 
+    "year_of_birth": 1957, 
+    "demographic_id": "c14bac8a-658b-5bd2-900d-5ef35ed46779", 
+    "updated_datetime": "2019-07-31T15:51:24.901910-05:00", 
+    "days_to_death": 540, 
+    "state": "released", 
+    "year_of_death": 2007
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:40:59.973798-05:00", 
+      "exposure_id": "bcfdd28f-ba9d-5ccf-8c5b-fda56738438d", 
+      "submitter_id": "TCGA-4G-AAZG_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "c60eb7be-c85c-4338-a20b-51948d43bf2a", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-4G-AAZG", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "Not Reported", 
+      "ajcc_pathologic_stage": "Stage III", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:40:59.973798-05:00", 
+          "submitter_id": "TCGA-4G-AAZG_treatment_1", 
+          "treatment_id": "32fef422-5840-55c2-b971-69b2d607cdf9", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:35:12.151283-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:40:59.973798-05:00", 
+          "submitter_id": "TCGA-4G-AAZG_treatment", 
+          "treatment_id": "bea83a55-dbf4-5ec9-9812-c8a3984bdf51", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 1716.0, 
+      "age_at_diagnosis": 27490, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "yes", 
+      "year_of_diagnosis": 2011, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "MX", 
+      "submitter_id": "TCGA-4G-AAZG_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "a4810a8c-63c0-5ea1-94b8-0ae668c77759", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "47601f81-578d-50d6-ab5f-7d4d3dc0c9de", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:40:59.973798-05:00", 
+    "age_at_index": 75, 
+    "submitter_id": "TCGA-4G-AAZG_demographic", 
+    "days_to_birth": -27490, 
+    "state": "released", 
+    "year_of_birth": 1936
+  }
+},{
+  "case_id": "c8e57f03-ac69-49bb-954b-4c40fe371f75", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-5A-A8ZG"
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:42:46.904238-05:00", 
+      "exposure_id": "1d1ebb66-29b4-58ab-b8f7-3941fa7c3c19", 
+      "submitter_id": "TCGA-W6-AA0T_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "cb40327b-f3ac-4f0a-bb17-7db2a281e354", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W6-AA0T", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage III", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:42:46.904238-05:00", 
+          "submitter_id": "TCGA-W6-AA0T_treatment_1", 
+          "treatment_id": "15c1bfe4-d865-56dc-97df-f6f5fa7edab2", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T10:36:45.084428-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:42:46.904238-05:00", 
+          "submitter_id": "TCGA-W6-AA0T_treatment", 
+          "treatment_id": "7d4ab34e-f61b-5f05-961b-ebaca66d5597", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 656.0, 
+      "age_at_diagnosis": 23004, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W6-AA0T_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "67d4c503-f60d-53e3-8eff-3c675ced8ecf", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "d55f594c-ea90-5532-aedb-e4ff18466313", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:42:46.904238-05:00", 
+    "age_at_index": 62, 
+    "submitter_id": "TCGA-W6-AA0T_demographic", 
+    "days_to_birth": -23004, 
+    "state": "released", 
+    "year_of_birth": 1951
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:13:55.290668-05:00", 
+      "exposure_id": "abae74e1-9815-5169-a91f-a1b415e21400", 
+      "submitter_id": "TCGA-ZD-A8I3_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "ccb028ae-777c-4af6-b92e-40848f1cf774", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZD-A8I3", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:13:55.290668-05:00", 
+          "submitter_id": "TCGA-ZD-A8I3_treatment_1", 
+          "treatment_id": "12bbed9c-df3f-5c96-b4c9-fab17f4b4c7c", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T08:35:02.893758-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:13:55.290668-05:00", 
+          "submitter_id": "TCGA-ZD-A8I3_treatment", 
+          "treatment_id": "6518c117-5a77-5592-8b40-966bcf21b8f3", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 0.0, 
+      "age_at_diagnosis": 26754, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-ZD-A8I3_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "1f2db330-e21e-50ed-a178-1d332dbfb516", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "1959d96d-7924-5bd7-aaf6-8a2525d1b889", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "asian", 
+    "vital_status": "Dead", 
+    "updated_datetime": "2019-07-31T15:13:55.290668-05:00", 
+    "age_at_index": 73, 
+    "submitter_id": "TCGA-ZD-A8I3_demographic", 
+    "days_to_death": 169, 
+    "days_to_birth": -26754, 
+    "state": "released", 
+    "year_of_birth": 1940
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:42:52.875154-05:00", 
+      "exposure_id": "c653a2ad-04e8-5a11-9de0-d525d033f5c2", 
+      "submitter_id": "TCGA-W7-A93N_exposure", 
+      "state": "released", 
+      "created_datetime": "2019-04-28T10:36:50.185982-05:00"
+    }
+  ], 
+  "case_id": "d64d8a1b-b31f-4cbb-a586-5ec7f058f0de", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W7-A93N", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IIB", 
+      "days_to_diagnosis": 0, 
+      "created_datetime": "2019-04-28T10:36:50.185982-05:00", 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:42:52.875154-05:00", 
+          "submitter_id": "TCGA-W7-A93N_treatment", 
+          "treatment_id": "4082064f-0bf0-59f4-86cf-a39dde65161c", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "not reported", 
+          "created_datetime": "2019-04-28T10:36:50.185982-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:42:52.875154-05:00", 
+          "submitter_id": "TCGA-W7-A93N_treatment_1", 
+          "treatment_id": "a17555c0-0231-5838-97af-7718cfb24d1f", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "not reported", 
+          "created_datetime": "2019-04-28T10:36:50.185982-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Extrahepatic bile duct", 
+      "days_to_last_follow_up": 1441.0, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2010, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N1", 
+      "ajcc_pathologic_m": "MX", 
+      "submitter_id": "TCGA-W7-A93N_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "a3efb0b3-6237-5593-874f-d509f5e3561d", 
+      "icd_10_code": "C24.0", 
+      "site_of_resection_or_biopsy": "Extrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "a8e315a8-a642-55ac-9fb3-279cd360d56e", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:42:52.875154-05:00", 
+    "submitter_id": "TCGA-W7-A93N_demographic", 
+    "state": "released", 
+    "created_datetime": "2019-04-28T10:36:50.185982-05:00"
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:39:34.010823-05:00", 
+      "exposure_id": "9a31d447-a700-5e86-8dc8-03f8082462f3", 
+      "submitter_id": "TCGA-3X-AAVE_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "dcc87c59-fd8c-4511-9983-96d5b9784cb0", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-3X-AAVE", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:39:34.010823-05:00", 
+          "submitter_id": "TCGA-3X-AAVE_treatment", 
+          "treatment_id": "a172ad8f-8db9-51df-9816-0c89f19c332c", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:39:34.010823-05:00", 
+          "submitter_id": "TCGA-3X-AAVE_treatment_1", 
+          "treatment_id": "fcd943ff-88cc-54dc-9113-7fa4f6eb60cf", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T08:57:05.230489-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 650.0, 
+      "age_at_diagnosis": 21943, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2013, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-3X-AAVE_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "7e847ca8-b168-5c62-a0c8-d4398ccdbf2d", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "70c84d96-45d5-5409-84ed-025f09ea854c", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "asian", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T15:39:34.010823-05:00", 
+    "age_at_index": 60, 
+    "submitter_id": "TCGA-3X-AAVE_demographic", 
+    "days_to_birth": -21943, 
+    "state": "released", 
+    "year_of_birth": 1953
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:13:01.792606-05:00", 
+      "exposure_id": "f951fcd6-4f47-5212-94ba-926143598ad1", 
+      "submitter_id": "TCGA-ZU-A8S4_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "e76cf9a0-061e-4a7d-ba28-5a40b8da54b8", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-ZU-A8S4", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:13:01.792606-05:00", 
+          "submitter_id": "TCGA-ZU-A8S4_treatment", 
+          "treatment_id": "0405431f-fac3-50cb-8307-a3c7dbef8be8", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:13:01.792606-05:00", 
+          "submitter_id": "TCGA-ZU-A8S4_treatment_1", 
+          "treatment_id": "42a966a8-399b-5003-b36a-7776530acf20", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T08:34:15.594658-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 19264, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "NX", 
+      "ajcc_pathologic_m": "MX", 
+      "submitter_id": "TCGA-ZU-A8S4_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "40020d0b-b6bb-552f-99e8-85eadef3f5f0", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 52, 
+    "submitter_id": "TCGA-ZU-A8S4_demographic", 
+    "days_to_birth": -19264, 
+    "year_of_birth": 1960, 
+    "demographic_id": "4926c575-3e72-5ea1-89ec-1af7e2b890ad", 
+    "updated_datetime": "2019-07-31T15:13:01.792606-05:00", 
+    "days_to_death": 98, 
+    "state": "released", 
+    "year_of_death": 2012
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:49:06.258417-05:00", 
+      "exposure_id": "12f18b88-e4d0-5b4e-971c-a75d6d6857be", 
+      "submitter_id": "TCGA-W5-AA36_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "f2d42e03-ca8d-4b57-ae39-0cc8f37b1b67", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA36", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage IV", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:49:06.258417-05:00", 
+          "submitter_id": "TCGA-W5-AA36_treatment_1", 
+          "treatment_id": "2097d2d3-f590-5aa6-93c8-9b291d05c215", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes", 
+          "created_datetime": "2019-04-28T09:05:04.413434-05:00"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:49:06.258417-05:00", 
+          "submitter_id": "TCGA-W5-AA36_treatment", 
+          "treatment_id": "7a2018ab-15b4-542e-87d4-cda79ae5f122", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 18882, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2008, 
+      "prior_treatment": "Yes", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "6th", 
+      "ajcc_pathologic_t": "T3", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M1", 
+      "submitter_id": "TCGA-W5-AA36_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "554e26ad-0f03-58ae-90e8-c3d3cfa32818", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 51, 
+    "submitter_id": "TCGA-W5-AA36_demographic", 
+    "days_to_birth": -18882, 
+    "year_of_birth": 1957, 
+    "demographic_id": "e303b58e-3f34-519e-b4ee-b2e129c9b276", 
+    "updated_datetime": "2019-07-31T15:49:06.258417-05:00", 
+    "days_to_death": 1402, 
+    "state": "released", 
+    "year_of_death": 2011
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:32:21.811200-05:00", 
+      "exposure_id": "1904aee0-640c-5184-aedf-b9d7b78d6cf1", 
+      "submitter_id": "TCGA-W5-AA2Q_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "f47dbd99-920b-4b39-a1b0-6c152ad24884", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-W5-AA2Q", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:32:21.811200-05:00", 
+          "submitter_id": "TCGA-W5-AA2Q_treatment", 
+          "treatment_id": "0ec46556-c7a9-5d4c-846f-113a6b5d52fb", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:32:21.811200-05:00", 
+          "submitter_id": "TCGA-W5-AA2Q_treatment_1", 
+          "treatment_id": "412cf902-2997-5540-885a-baffb7fde316", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:27:59.410856-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "days_to_last_follow_up": 50.0, 
+      "age_at_diagnosis": 25069, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2006, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "6th", 
+      "ajcc_pathologic_t": "T2b", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-W5-AA2Q_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "6447140c-2fb7-5650-ba57-f25db7dd3979", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "8ddb6cab-1df5-5bec-834e-ee2d50ae5db9", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "male", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:32:21.811200-05:00", 
+    "age_at_index": 68, 
+    "submitter_id": "TCGA-W5-AA2Q_demographic", 
+    "days_to_birth": -25069, 
+    "state": "released", 
+    "year_of_birth": 1938
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T15:38:53.476679-05:00", 
+      "exposure_id": "3af13a8b-16d9-5955-9d14-fed6a0700362", 
+      "submitter_id": "TCGA-3X-AAVA_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "fe57b639-db7a-460f-adfe-552f1e034e46", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-3X-AAVA", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage II", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T15:38:53.476679-05:00", 
+          "submitter_id": "TCGA-3X-AAVA_treatment", 
+          "treatment_id": "6d0871d5-a804-5c01-be09-73cf2a078cc3", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "yes"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T15:38:53.476679-05:00", 
+          "submitter_id": "TCGA-3X-AAVA_treatment_1", 
+          "treatment_id": "87cdd7b0-09fb-5290-a87a-7a299bbe34ad", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T08:56:29.863355-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Intrahepatic bile duct", 
+      "age_at_diagnosis": 18303, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T2b", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "NX", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-3X-AAVA_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "c30b61ed-f69b-54bb-b65c-a9cfa1d11346", 
+      "icd_10_code": "C22.1", 
+      "site_of_resection_or_biopsy": "Intrahepatic bile duct", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Dead", 
+    "age_at_index": 50, 
+    "submitter_id": "TCGA-3X-AAVA_demographic", 
+    "days_to_birth": -18303, 
+    "year_of_birth": 1962, 
+    "demographic_id": "6b62981b-e6be-50fb-9e55-19e11233b954", 
+    "updated_datetime": "2019-07-31T15:38:53.476679-05:00", 
+    "days_to_death": 445, 
+    "state": "released", 
+    "year_of_death": 2013
+  }
+},{
+  "exposures": [
+    {
+      "alcohol_history": "Not Reported", 
+      "updated_datetime": "2019-07-31T17:32:24.957543-05:00", 
+      "exposure_id": "8b07f44c-53ff-54ae-839b-25bb01b11bed", 
+      "submitter_id": "TCGA-3X-AAVC_exposure", 
+      "state": "released"
+    }
+  ], 
+  "case_id": "ff4131c9-537c-46cc-b495-9af60d431f5e", 
+  "project": {
+    "project_id": "TCGA-CHOL"
+  }, 
+  "submitter_id": "TCGA-3X-AAVC", 
+  "diagnoses": [
+    {
+      "synchronous_malignancy": "No", 
+      "ajcc_pathologic_stage": "Stage I", 
+      "days_to_diagnosis": 0, 
+      "treatments": [
+        {
+          "updated_datetime": "2019-07-31T17:32:24.957543-05:00", 
+          "submitter_id": "TCGA-3X-AAVC_treatment", 
+          "treatment_id": "e42fbe52-bad9-5808-af6e-c4a08f27f61f", 
+          "treatment_type": "Radiation Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no"
+        }, 
+        {
+          "updated_datetime": "2019-07-31T17:32:24.957543-05:00", 
+          "submitter_id": "TCGA-3X-AAVC_treatment_1", 
+          "treatment_id": "ec0abe20-e65c-5f5b-b967-93b3ebb57b52", 
+          "treatment_type": "Pharmaceutical Therapy, NOS", 
+          "state": "released", 
+          "treatment_or_therapy": "no", 
+          "created_datetime": "2019-04-28T10:28:01.954620-05:00"
+        }
+      ], 
+      "last_known_disease_status": "not reported", 
+      "tissue_or_organ_of_origin": "Gallbladder", 
+      "days_to_last_follow_up": 709.0, 
+      "age_at_diagnosis": 26493, 
+      "primary_diagnosis": "Cholangiocarcinoma", 
+      "updated_datetime": "2023-10-06T12:24:20.187930-05:00", 
+      "prior_malignancy": "no", 
+      "year_of_diagnosis": 2012, 
+      "prior_treatment": "No", 
+      "state": "released", 
+      "ajcc_staging_system_edition": "7th", 
+      "ajcc_pathologic_t": "T1", 
+      "morphology": "8160/3", 
+      "ajcc_pathologic_n": "N0", 
+      "ajcc_pathologic_m": "M0", 
+      "submitter_id": "TCGA-3X-AAVC_diagnosis", 
+      "classification_of_tumor": "not reported", 
+      "diagnosis_id": "d0f40ba7-dac9-56f2-b72b-3b6448343e2d", 
+      "icd_10_code": "C24.0", 
+      "site_of_resection_or_biopsy": "Gallbladder", 
+      "tumor_grade": "Not Reported", 
+      "progression_or_recurrence": "not reported"
+    }
+  ], 
+  "demographic": {
+    "demographic_id": "8beb89b7-7a32-5246-bb35-31e9fffeba2b", 
+    "ethnicity": "not hispanic or latino", 
+    "gender": "female", 
+    "race": "white", 
+    "vital_status": "Alive", 
+    "updated_datetime": "2019-07-31T17:32:24.957543-05:00", 
+    "age_at_index": 72, 
+    "submitter_id": "TCGA-3X-AAVC_demographic", 
+    "days_to_birth": -26493, 
+    "state": "released", 
+    "year_of_birth": 1940
+  }
+}]
