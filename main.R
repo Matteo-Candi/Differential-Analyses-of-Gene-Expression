@@ -19,6 +19,10 @@ lapply(packs, require, character.only = TRUE)
 biospecimen <- fromJSON("data/json/biospecimen.json")
 clinical <- fromJSON("data/json/clinical.json")
 
+filtered_biospecimen <- fromJSON("data/json/filtered_biospecimen.json")
+filtered_clinical <- fromJSON("data/json/filtered_clinical.json")
+
+
 # TSV
 bio_aliquot <- read_tsv("data/tsv/biospecimen/aliquot.tsv")
 bio_analyte <- read_tsv("data/tsv/biospecimen/analyte.tsv")
