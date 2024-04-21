@@ -1,11 +1,17 @@
 # Load packages --------------
 
+BiocManager::install("BiocGenerics")
 library(BiocGenerics) 
+BiocManager::install("DESeq2")
 library(DESeq2)
 library(psych) 
 library(NetworkToolbox)
-library(ggplot2); library(ggnet)
-library(GGally);library(sna);library(network)
+library(ggplot2)
+library(ggnet)
+install.packages("GGally")
+library(GGally);
+library(sna);
+library(network)
 library(TCGAbiolinks)
 library(SummarizedExperiment)
 library(DT)
