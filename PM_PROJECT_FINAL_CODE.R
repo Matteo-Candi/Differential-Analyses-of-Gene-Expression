@@ -3,6 +3,7 @@
 BiocManager::install("BiocGenerics")
 library(BiocGenerics) 
 BiocManager::install("DESeq2")
+
 library(DESeq2)
 library(psych) 
 library(NetworkToolbox)

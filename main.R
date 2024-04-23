@@ -1,15 +1,17 @@
 # 2/11/23
 
+BiocManager::install("BiocGenerics")
+BiocManager::install("DESeq2")
+install.packages("GGally")
+
 required_packages <- c("BiocGenerics", "DESeq2", "psych", "NetworkToolbox", "ggplot2",
                        "GGally", "sna", "network", "TCGAbiolinks", "SummarizedExperiment", "DT")
 
 lapply(required_packages, library, character.only = TRUE)
 
 #1: Downloading data from the TGCA -------
-
-
 proj <- "TCGA-CHOL"
-dir.create(file.path(proj))
+dir.create(file.path(proj), recursive = TRUE)
 
 
 rna.query.C <- GDCquery(project = proj, data.category = "Transcriptome Profiling",
@@ -17,8 +19,8 @@ rna.query.C <- GDCquery(project = proj, data.category = "Transcriptome Profiling
                         workflow.type = "STAR - Counts",
                         sample.type = "Primary Tumor")
 
-GDCdownload(query = rna.query.C, directory = "GDCdata", method = "api")
-rna.data.C <- GDCprepare(rna.query.C, directory = "GDCdata")
+GDCdownload(query = rna.query.C, directory = "TCGA-CHOL/GDCdata", method = "api")
+rna.data.C <- GDCprepare(rna.query.C, directory = "TCGA-CHOL/GDCdata")
 rna.expr.data.C <- assay(rna.data.C)
 
 View(BiocGenerics::as.data.frame(rowRanges(rna.data.C)))
