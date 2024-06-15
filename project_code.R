@@ -304,8 +304,8 @@ d.n <- sna::degree(net.n, gmode = 'graph')
 d.n <- d.n[d.n > 0]
 names(d.n) <- network.vertex.names(net.n)
 
-# Determine the 99% quantile to identify hubs
-quantile_hubs <- 0.99
+# Determine the 95% quantile to identify hubs
+quantile_hubs <- 0.95
 x_n <- quantile(d.n, quantile_hubs)
 
 data.n <- data.frame(value = unlist(d.n))
@@ -351,7 +351,7 @@ d.c <- sna::degree(net.c, gmode = 'graph')
 d.c <- d.c[d.c > 0]
 names(d.c) <- network.vertex.names(net.c)
 
-# Determine the 99% quantile to identify hubs
+# Determine the 95% quantile to identify hubs
 x_c <- quantile(d.c, quantile_hubs)
 
 data.c <- data.frame(value = unlist(d.c))
@@ -486,7 +486,7 @@ d.diff <- sna::degree(net.diff, gmode = 'graph')
 d.diff <- d.diff[d.diff > 0]
 names(d.diff) <- network.vertex.names(net.diff)
 
-# Determine the 99% quantile to identify hubs
+# Determine the 95% quantile to identify hubs
 x_d <- quantile(d.diff, quantile_hubs)
 
 data <- data.frame(value = unlist(d.diff))
