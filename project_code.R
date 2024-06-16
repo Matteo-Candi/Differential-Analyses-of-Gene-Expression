@@ -653,6 +653,98 @@ write.csv(cancer.stage.info, file = "networks/cancer_stage.csv", row.names = FAL
 # The plots have been made in the file network_visualization.py
 
 
+# 6 - OPTIONAL TASKS ----------------------
 
+
+## 6.1 - Compute a different centrality index and check overlap with previous hubs -----
+#previous hubs (degree-based):
+hubs.c 
+hubs.n 
+
+bet_n <- betweenness(net.n)   #for normal tissue network
+bet_c <- betweenness(net.c)   #for cancer tissue network
+
+names(bet_n) <- rownames(filtr.expr.n.deg)  #assigning row names
+names(bet_c) <- rownames(filtr.expr.c.deg)  #assigning row names
+ 
+hubs.n.bet <- names(bet_n[bet_n > quantile(bet_n, 0.95)]) #top 5% hubs in normal tissue
+hubs.c.bet <- names(bet_c[bet_c > quantile(bet_c, 0.95)]) #top 5% hubs in cancer tissue
+
+# Normal tissue hubs in common
+intersect(names(hubs.n), hubs.n.bet)   #1
+
+# Cancer tissue hubs in common
+intersect(names(hubs.c), hubs.c.bet)    #25
+
+
+## 6.2 - Enrichment analysis on cancer nodes ---------------  
+
+# Extract common names of the genes 
+hubs.c_names <- genes.info.c[names(hubs.c), ]$gene_name
+
+
+#not_in_common_c_names <- genes.info.c[not_in_common_c, ]$gene_name
+
+library(enrichR)
+websiteLive <- getOption("enrichR.live")
+if (websiteLive) {
+  listEnrichrSites()
+  setEnrichrSite("Enrichr") # Human genes   
+}
+
+if (websiteLive) dbs <- listEnrichrDbs()
+if (websiteLive) head(dbs)
+if (websiteLive) dbs$libraryName
+
+dbs <- c("GO_Biological_Process_2023", "KEGG_2021_Human")
+if (websiteLive) {  enriched <- enrichr(hubs.c_names, dbs) }
+
+#Plotting the results
+
+# Database GO 
+if (websiteLive) {
+  plotEnrich(enriched[[1]], showTerms = 20, numChar = 45, y = "Count", orderBy = "P.value")}
+
+# Database KEGG
+if (websiteLive) {
+  plotEnrich(enriched[[2]], showTerms = 20, numChar = 45, y = "Count", 
+             orderBy = "P.value") }
+
+
+## 6.3 - Survival Analysis ---------------  
+install.packages("survival")
+install.packages("survminer")
+
+library(survival)
+library(survminer)
+
+survival.data <- clinical.query[, c("submitter_id", "days_to_death", "vital_status", "ajcc_pathologic_stage")]
+colnames(survival.data) <- c('name', 'time', 'status', 'stage')
+selected.patients <- network.vertex.names(net.final.p)
+
+survival_patients <- survival.data$name
+selected_patients <- selected.patients
+common_patients <- intersect(survival_patients, selected_patients)
+survival_data_filtered <- survival.data[survival.data$name %in% common_patients, ]
+
+survival_data_filtered$status <- ifelse(survival_data_filtered$status == "Dead", 1, 0)
+
+surv_object <- Surv(time = survival_data_filtered$time, event = survival_data_filtered$status)
+fit <- survfit(surv_object ~ stage, data = survival_data_filtered)
+
+ggsurvplot(fit, data = survival_data_filtered, pval = TRUE, risk.table = TRUE)
+
+ggsurvplot(
+  fit,                      # Fitted survival model
+  data = survival_data_filtered ,            # Show p-value of the survival test
+  risk.table = TRUE,        # Show risk table
+  palette = c("#E41A1C", "#377EB8","green","black"),  # Optional: Customize color palette
+  main = "Survival Curve",  # Optional: Main title for the plot
+  xlab = "Time",   # Optional: X-axis label
+  ylab = "Survival Probability",  # Optional: Y-axis label
+  legend.title = "Stages:",
+  legend.labs = c("Stage 1", "Stage 2", "Stage 3", "Stage 4"),
+  ggtheme = theme_minimal()
+)
 
 
